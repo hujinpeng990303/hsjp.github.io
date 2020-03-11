@@ -1,45 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hsjp.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-03-11T03:33:40.616Z</updated>
+    <title>胡说金朋</title>
+    <updated>2020-03-11T03:42:37.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hsjp.github.io"/>
     <link rel="self" href="https://hsjp.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>资源分享</subtitle>
     <logo>https://hsjp.github.io/images/avatar.png</logo>
     <icon>https://hsjp.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 胡说金朋</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://hsjp.github.io/post/hello-gridea/</id>
-        <link href="https://hsjp.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[富强上网]]></title>
+        <id>https://hsjp.github.io/post/fu-qiang-shang-wang/</id>
+        <link href="https://hsjp.github.io/post/fu-qiang-shang-wang/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2020-03-11T03:36:55.000Z</updated>
+        <content type="html"><![CDATA[<p>因能力有限暂时只提供安卓和WIN比较简单的使用方法，IOS和MAC请自行探索或用下文的S. S.  .R</p>
+<p>安卓：<br>
+华为手机如果使用有障碍请自行解决。<br>
+1、我在这里推荐老王wei pi en 👈点击下载  现在挺快的。如果不好用了 我也会更新其他的。</p>
+<p>图片: https://uploader.shimo.im/f/QvqQYfUjlWAwbeTc.png</p>
+<p>2、如果你觉得老王不好用了可以使用S S  1R👈点击下载</p>
+<p>使用方法每个网站都有这里推荐一个▼<br>
+https://zaizaicloud.pw/auth/register?code=NUAh(有免费的流量)</p>
+<p>然后就是谷歌框架、谷歌浏览器和谷歌商店</p>
+<p>GO谷歌安装器（谷歌框架）无需root👈点击下载<br>
+图片: https://uploader.shimo.im/f/Gd4ivCNHv9wX2Oio.png</p>
+<p>谷歌浏览器👈点击下载<br>
+图片: https://uploader.shimo.im/f/oNVdswT0WhMQxSIa.png</p>
+<p>谷歌商店👈点击下载<br>
+图片: https://uploader.shimo.im/f/yb3NEBeWFSUMeImy.png<br>
+这样大家就能自己下载或浏览了。</p>
+<p>一些其他的问题：</p>
+<p>如果谷歌账号不能注册，我也没有办法，有时候可以有时候不行。</p>
+<p>网络并非法外之地，不要瞎搞，不要扯和政治相关的东西</p>
+<p>我分享仅做学习使用，不要瞎搞，与我无关</p>
+<p>最后如果觉得好用请回到公众号点点底部的广告来支持俺，最最后感谢对大家的关注与支持。</p>
+<p>2020/02/17附赠电脑端使用方法</p>
+<p>丑话说前面，如果连这个都看不明白那你也就别用了，别在群里讨论自己用自己的就行。</p>
+<p>pc端拓展（可以访问谷歌，油管无压力）：</p>
+<p>拓展下载地址：https://www.lanzous.com/i9fg7kh</p>
+<p>建议使用的浏览器</p>
+<p>谷歌浏览器：https://www.google.cn/chrome/</p>
+<p>新版EDGE:https://www.microsoftedgeinsider.com/zh-cn/</p>
+<p>其他浏览器基于谷歌内核应该也可以自测。</p>
+<p>使用方法</p>
+<p>1、以新版的edge为例点击右上角的...然后选择【扩展】</p>
+<p>图片: https://uploader.shimo.im/f/hEcJTwB4xacUByy9.png</p>
+<p>在左下角勾选这两个选项，其他浏览器一样都需要打开开发者模式。<br>
+图片: https://uploader.shimo.im/f/GobwgbX1cmEsSCph.png</p>
+<p>然后直接将下载好后的拓展拖拽进来即可。</p>
+<p>然后如下图所示，连接好后刷新一下浏览器即可使用，觉得不快就换个节点。<br>
+图片: https://uploader.shimo.im/f/pHVqG7BbA0MA63Eh.png</p>
+<p>油管无压力<br>
+图片: https://uploader.shimo.im/f/XFEBVBVjkgQmqGKC.png</p>
+<p>如果你觉得上面拓展不好用了同样可以使用 S  S 1R<br>
+使用方法每个网站都有这里推荐一个▼<br>
+https://zaizaicloud.pw/auth/register?code=NUAh(有免费的流量)</p>
 ]]></content>
     </entry>
 </feed>
